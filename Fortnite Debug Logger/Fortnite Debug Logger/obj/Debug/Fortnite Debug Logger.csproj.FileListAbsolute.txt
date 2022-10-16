@@ -1,0 +1,8 @@
+C:\Users\Calvin\source\repos\Fortnite Debug Logger\Fortnite Debug Logger\bin\Debug\Fortnite Debug Logger.exe.config
+C:\Users\Calvin\source\repos\Fortnite Debug Logger\Fortnite Debug Logger\bin\Debug\Fortnite Debug Logger.exe
+C:\Users\Calvin\source\repos\Fortnite Debug Logger\Fortnite Debug Logger\bin\Debug\Fortnite Debug Logger.pdb
+C:\Users\Calvin\source\repos\Fortnite Debug Logger\Fortnite Debug Logger\obj\Debug\Fortnite Debug Logger.csproj.AssemblyReference.cache
+C:\Users\Calvin\source\repos\Fortnite Debug Logger\Fortnite Debug Logger\obj\Debug\Fortnite Debug Logger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calvin\source\repos\Fortnite Debug Logger\Fortnite Debug Logger\obj\Debug\Fortnite Debug Logger.csproj.CoreCompileInputs.cache
+C:\Users\Calvin\source\repos\Fortnite Debug Logger\Fortnite Debug Logger\obj\Debug\Fortnite Debug Logger.exe
+C:\Users\Calvin\source\repos\Fortnite Debug Logger\Fortnite Debug Logger\obj\Debug\Fortnite Debug Logger.pdb
